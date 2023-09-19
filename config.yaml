@@ -1,0 +1,5 @@
+Host: 0.0.0.0
+HttpPort: 1081
+SocksPort: 1080
+Auth:
+  admin: 123456
